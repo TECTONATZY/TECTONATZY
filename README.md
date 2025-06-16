@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TECTONATZY
+- 👋 Hi, I’m @TECTONA
 - 👀 I’m interested in Data scientist enthusiast
 - 🌱 I’m currently learning data science and other IT project
 - 💞️ I’m looking to collaborate on job IT
