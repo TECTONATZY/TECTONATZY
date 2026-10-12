@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TECTONA
-- 👀 I’m interested in Data scientist enthusiast
-- 🌱 I’m currently learning data science and other IT project
+- 👀 I’m interested work part of data 
+- 🌱 I’m currently learning data  and other IT project
 - 💞️ I’m looking to collaborate on job IT
 - 📫 How to reach me linkidn and my media social
 - 😄 Pronouns: english and indonesia
